@@ -1,7 +1,7 @@
 Header Test
-# <h1> Header 1
-# <h2> Header 2
-# <h6> Header 3
+# <h1> header, which is the largest
+## <h2> header
+###### <h6> header, which is the smallest
 
 Image Test - Text is above image in the edit file
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
